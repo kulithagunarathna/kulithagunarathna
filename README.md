@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kulitha Gunarathna
+- 👋 Hi, I’m Kulitha Gunarathna. Live in Sri Lanka. I am currently studying Software Engineering at the London Metropolitan University and working as a trainee software developer at local IT company.
 - 👀 I’m interested in design & development.
 - 🌱 I'm currently learning HTML, CSS, JS, PHP, SQL, C#, Python.
 - 💞️ ...
